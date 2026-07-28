@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=140&section=header&text=Vanshika%20Jindal&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=16" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2A5298&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%7C+Python+%7C+Java+%7C+MySQL;Building+data-driven+solutions" alt="Typing SVG" />
 </div>
+
 ## About
 
 Computer Science Engineering student with a focus on Machine Learning, Deep Learning, and Generative AI. Comfortable working across Python, Java, and MySQL, with an interest in applying data-driven methods to real-world problems.
